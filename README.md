@@ -9,3 +9,8 @@ You can play the game at: [https://gh-developers-training-20260323.github.io/git
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+>> Advertising >>
+
+Checkout [EoF MCP Studio - AI driven development at next level](https://mcpstudio.eofsl.com)
+
